@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[ITM] hCaptcha Integration",
+    "description": "This integrate hCaptcha.",
+    "version_id": 1000031,
+    "version_string": "1.0.0 Beta 1",
+    "dev": "IT-MaKu",
+    "dev_url": "https://www.it-maku.com",
+    "faq_url": "",
+    "support_url": "https://www.xentutorials.com",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}

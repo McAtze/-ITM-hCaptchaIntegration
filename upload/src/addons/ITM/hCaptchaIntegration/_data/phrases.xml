@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="itm_hCaptcha_use_hcaptcha" version_id="1000010" version_string="1.0.0 Alpha" global_cache="1"><![CDATA[Use hCaptcha]]></phrase>
+  <phrase title="itm_hcaptcha_secret_key" version_id="1000010" version_string="1.0.0 Alpha" global_cache="1"><![CDATA[Secret key]]></phrase>
+  <phrase title="itm_hcaptcha_site_key" version_id="1000010" version_string="1.0.0 Alpha" global_cache="1"><![CDATA[Site key]]></phrase>
+  <phrase title="itm_hcaptcha_use_compactSize" version_id="1000012" version_string="1.0.0 Alpha 2" global_cache="1"><![CDATA[Use Compact Size (if not checked it will use normal size)]]></phrase>
+  <phrase title="itm_hcaptcha_use_darktheme" version_id="1000012" version_string="1.0.0 Alpha 2" global_cache="1"><![CDATA[Use Dark Theme (if not checked it will use light theme)]]></phrase>
+</phrases>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public" title="itm_captcha_hcaptcha" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[<div class="h-captcha" 
+	 data-sitekey="{$siteKey}" 
+	 data-theme="{{ ($widgetTheme) ? 'dark' : 'light' }}" 
+	 data-size="{{ ($widgetSize) ? 'compact' : 'normal' }}">
+</div>]]></template>
+</templates>

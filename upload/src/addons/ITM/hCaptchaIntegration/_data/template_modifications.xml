@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="helper_js_global" modification_key="InserthCaptchaJS" description="Insert hCaptcha JS" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:if is="$xf.fullJs">]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.extraCaptchaKeys.hCaptchaSiteKey || $xf.options.extraCaptchaKeys.hCaptchaSecretKey != ''">
+		<script src="https://hcaptcha.com/1/api.js" async defer></script>
+	</xf:if>
+
+	$0]]></replace>
+  </modification>
+  <modification type="admin" template="option_template_captcha" modification_key="InserthCaptcha" description="Insert hCaptcha options" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<!--[XF:captcha_after_keycaptcha]-->]]></find>
+    <replace><![CDATA[<xf:option value="ITM\hCaptchaIntegration\hCaptcha" data-hide="true">
+		<xf:label>{{ phrase('itm_hCaptcha_use_hcaptcha') }}</xf:label>
+		<xf:hint><a href="https://hcaptcha.com" target="_blank">https://hcaptcha.com</a></xf:hint>
+		<xf:dependent>
+			<div>{{ phrase('itm_hcaptcha_site_key:') }}</div>
+			<xf:textbox name="{$extraKeysInput}[hCaptchaSiteKey]" value="{$xf.options.extraCaptchaKeys.hCaptchaSiteKey}" />
+		</xf:dependent>
+		<xf:dependent>
+			<div>{{ phrase('itm_hcaptcha_secret_key:') }}</div>
+			<xf:textbox name="{$extraKeysInput}[hCaptchaSecretKey]" value="{$xf.options.extraCaptchaKeys.hCaptchaSecretKey}" />
+		</xf:dependent>
+		<xf:dependent>
+			<xf:checkbox>
+				<xf:option name="{$extraKeysInput}[hCaptchaWidgetTheme]" selected="{$xf.options.extraCaptchaKeys.hCaptchaWidgetTheme}">{{ phrase('itm_hcaptcha_use_darktheme') }}</xf:option>
+			</xf:checkbox>
+			<xf:checkbox>
+				<xf:option name="{$extraKeysInput}[hCaptchaWidgetSize]" selected="{$xf.options.extraCaptchaKeys.hCaptchaWidgetSize}">{{ phrase('itm_hcaptcha_use_compactSize') }}</xf:option>
+			</xf:checkbox>
+		</xf:dependent>
+	</xf:option>
+
+	$0]]></replace>
+  </modification>
+</template_modifications>
