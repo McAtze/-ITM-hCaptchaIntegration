@@ -1,6 +1,8 @@
 ## [ITM] hCaptcha Integration
 
-This add-on integrates the new [hCaptcha](https://hcaptcha.com/?r=72c6d3fa87d7) as Captcha for guests. 
+This add-on integrates the new [hCaptcha](https://hcaptcha.com/?r=72c6d3fa87d7) as Captcha for guests.
+
+Please be aware that this add-on is actually in **Beta Status**, using productive on own risc.
 
 ### Installation
 
