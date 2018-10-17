@@ -11,6 +11,6 @@ This add-on integrates the new [hCaptcha](https://hcaptcha.com/?r=72c6d3fa87d7) 
 
 ## Screenshots
 
-![Options](https://maxcdn.it-maku.com/git/hCaptcha/Options.png)
-![hCaptcha-Account](https://maxcdn.it-maku.com/git/hCaptcha/hCaptcha_account.png)
-![Register_Form](https://maxcdn.it-maku.com/git/hCaptcha/register_form.png)
+![Options](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/2018-10-17_20-29-25.png)
+![hCaptcha-Account](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/2018-10-17_20-30-53.png)
+![Register_Form](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/Screen_20181017091845.png)
