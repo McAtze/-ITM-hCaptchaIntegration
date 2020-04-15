@@ -13,9 +13,9 @@ Please be aware that this add-on is actually in **Beta Status**, using productiv
 
 ### Screenshots
 
-![Options](https://maxcdn.it-maku.com/git/hCaptcha/Options.png)
-![hCaptcha-Account](https://maxcdn.it-maku.com/git/hCaptcha/hCaptcha_account.png)
-![Register_Form](https://maxcdn.it-maku.com/git/hCaptcha/register_form.png)
+![Options](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/Options.png)
+![hCaptcha-Account](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/hCaptcha_account.png)
+![Register_Form](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/register_form.png)
 
 ### After words
 
