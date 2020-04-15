@@ -13,9 +13,9 @@ Please be aware that this add-on is actually in **Beta Status**, using productiv
 
 ### Screenshots
 
-![Options](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/2018-10-17_20-29-25.png)
-![hCaptcha-Account](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/2018-10-17_20-30-53.png)
-![Register_Form](https://github.com/McAtze/-ITM-hCaptchaIntegration/blob/master/screenshots/Screen_20181017091845.png)
+![Options](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/Options.png)
+![hCaptcha-Account](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/hCaptcha_account.png)
+![Register_Form](https://raw.githubusercontent.com/McAtze/-ITM-hCaptchaIntegration/master/screenshots/register_form.png)
 
 ### After words
 
