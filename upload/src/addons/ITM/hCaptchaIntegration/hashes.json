@@ -1,6 +1,6 @@
 {
-    "src/addons/ITM/hCaptchaIntegration/addon.json": "4e1d182014dc2247105225a08256117a546645357ebf353c665b8bb4e3ec820e",
-    "src/addons/ITM/hCaptchaIntegration/hCaptcha.php": "bde5ea93997cc0675f7c2b60343b2c33aaa0eb6ffb67eef93c57f2cc83ab594a",
+    "src/addons/ITM/hCaptchaIntegration/addon.json": "85c42e8f5ef53f467966aac8b06f607f189919bdddb2d3197221b1b9125dd151",
+    "src/addons/ITM/hCaptchaIntegration/hCaptcha.php": "5f4270019dd32cebb2f6dbd7a37d1ce8d2418d5986024b4a4e62e947ce893521",
     "src/addons/ITM/hCaptchaIntegration/icon.png": "89b8e6acc397dd25f5af971dd64ced43af0ca20c48cc0e70421b086412fc7af4",
     "src/addons/ITM/hCaptchaIntegration/Setup.php": "ad8bcd69ba95aedae31278c329aee0d15c47ce349b59073554b7d178ca57281b",
     "src/addons/ITM/hCaptchaIntegration/_data/admin_navigation.xml": "064ec797484ac00d5ee37367b50b06846d11f480d00550997712707f8fdac8c0",
